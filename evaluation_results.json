@@ -1,0 +1,13 @@
+{
+  "baseline_accuracy": 0.8667,
+  "finetuned_accuracy": 0.7333,
+  "improvement": -0.1333,
+  "test_set_size": 15,
+  "label_map": {
+    "history": 0,
+    "arts": 1,
+    "economy": 2,
+    "politics": 3
+  },
+  "model": "distilbert-base-uncased"
+}
